@@ -235,9 +235,8 @@ function ContactForm() {
   return (
     <div className='d-flex justify-content-center'> 
     {
-        loading ? (<div className="card-body">
-                 <LoadingModal/>
-        </div>) : (
+        loading ? <LoadingModal/> : null
+}
 <div className="card contact-card">
 <div className="card-header bg-dark p-3 text-center">
   <div className="text-start">
@@ -286,8 +285,7 @@ function ContactForm() {
     </form>
 </div>
 </div>
-        )
-}
+
 </div>
   )
 }

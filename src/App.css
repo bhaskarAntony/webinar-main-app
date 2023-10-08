@@ -20,6 +20,9 @@
   /* background-color: #cdcdcf32; */
   /* backdrop-filter: blur(100px); */
 }
+.header-nav img{
+  width: 180px !important;
+}
 .text-main{
   color: #9812e6;
 }
