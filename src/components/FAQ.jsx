@@ -4,7 +4,7 @@ import ContactForm from './ContactForm'
 
 function FAQ() {
   return (
-    <section id='faq'>
+    <section id='faq' className='p-3 p-lg-5'>
         <div className="container-fluid mt-5">
           <div className="row">
             <div className="col-md-12">
