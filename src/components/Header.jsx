@@ -5,7 +5,7 @@ import content from '../data/content.json'
 function Header() {
   return (
     <section className='header-nav sticky-top'>
-            <nav className="navbar navbar-expand-md navbar-dark bg-custom">
+            <nav className="navbar navbar-expand-md navbar-dark">
                 <div className="container">
                     <a href={`/`} className="navbar-brand">
                          <img src={content.header.logo} alt="" className='img-fluid' width={200} height={150} />

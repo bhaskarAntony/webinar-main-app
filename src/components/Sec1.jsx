@@ -17,7 +17,7 @@ import Contact from './Contact';
        <div className="hero-text">
        <span className="fs-4 rounded-5 bg-white p-1 px-3 text-black" data-animation="fadeInLeft" data-delay=".1s"> 
                       { content.hero.subTitle} <i class="bi bi-arrow-right"></i> </span>
-                  <h1 className="display-1 text-light fw-bold" data-animation="fadeInLeft" data-delay=".5s"> 
+                  <h1 className="display-1 text-light fw-bold mb-5 mt-3" data-animation="fadeInLeft" data-delay=".5s"> 
                     { content.hero['mainTitle-1'] } <span className="text-black"> { content.hero['mainTitle-2']} </span>
                    </h1>
        </div>

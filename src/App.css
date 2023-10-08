@@ -13,12 +13,12 @@
 
 /* navigation  */
 .header-nav{
-  background: linear-gradient(45deg, #100009, #120003, #08000f);
+  background:linear-gradient(45deg, #34004d, #320008, #1f0138) !important;
   border-bottom: 1px solid #fff;
 }
 .header-nav nav{
-  background-color: #cdcdcf32;
-  backdrop-filter: blur(100px);
+  /* background-color: #cdcdcf32; */
+  /* backdrop-filter: blur(100px); */
 }
 .text-main{
   color: #9812e6;
@@ -30,11 +30,10 @@
   border: none;
   padding: 10px;
   background: #7b0dd4 !important;
-  box-shadow: 0px 10px 20px rgba(208, 9, 208, 0.4);
   color: #fff !important;
-  border-radius: 10px;
+  border-radius: 5px;
   margin-top: 20px;
-  font-size: 1.4rem !important;
+  font-size: 1.2rem !important;
 }
 .card{
   border: none !important;
