@@ -1,0 +1,129 @@
+{
+    "header": {
+        "logo":"https://res.cloudinary.com/dfogisedz/image/upload/v1696400519/webinar/wuxjubwtp8csymfqv28t.png"
+    },
+    "hero": {
+        "mainTitle-1": " Secrets to High-Paid",
+        "mainTitle-2": " Data Science Career",
+        "subTitle": "Committed to success",
+        "bgImage": "https://res.cloudinary.com/dfshihuf9/image/upload/v1696309367/be-practical/ds-web/czrvvfnduo37f82hkkvt.png"
+    },
+    "about": {
+        "title": "Acquire valuable, hands-on insights to launch your data science career effectively.",
+        "desc": "",
+        "when": "14th Saturday, October 23",
+        "e_date": "10/14/2023",
+        "where": "Be-Practical Tech solutions",
+        "abt1": "https://res.cloudinary.com/dfshihuf9/image/upload/v1696309349/be-practical/ds-web/xmpzqkmyop23qwda84is.png",
+        "abt2": "https://res.cloudinary.com/dfshihuf9/image/upload/v1696309349/be-practical/ds-web/ohzure87q0bmyymbcya9.png"
+    },
+    "pay": {
+        "url": "https://razorpay.me/@bepracticaltechsolutions?amount=KxK8ikz%2BGFZ8lMDydVeeuA%3D%3D"
+    },
+    "action": {
+        "txt": "Register Now for",
+        "amount": 1000,
+        "discount": 199
+    },
+    "schedule": [
+        {
+            "title": "9:00am - 10:00am",
+            "content_title": "Registration",
+            "content_desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore id,"
+        },
+        {
+            "title": "11:00am - 12:00am",
+            "content_title": "Event-1",
+            "content_desc": "optio aliquam labore eligendi minus officiis impedit sed repellat ut accusantium,"
+        },
+        {
+            "title": "12:00am - 2:00am",
+            "content_title": "Event-2",
+            "content_desc": "alias quidem ratione, nostrum atque. Unde sint tempora laudantium?"
+        }
+    ],
+    "faq": [
+        {
+            "title": "quest1",
+            "quest": "What is this Data Science workshop about?",
+            "ans":  "This workshop is designed to introduce you to the fundamentals of data science,including data analysis, machine learning, and practical applications"
+        },
+        {
+            "title": "quest2",
+            "quest": "Who should attend this workshop?",
+            "ans":  "This workshop is suitable for anyone interested in entering the field of data science,regardless of their background or prior experience."
+        },
+        {
+            "title": "quest3",
+            "quest": "Do I need to have prior data science knowledge?",
+            "ans":  "No, prior data science knowledge is not required. This workshop is designed for beginners and covers the basics."
+        },
+        {
+            "title": "quest4",
+            "quest": "Will workshop materials be provided?",
+            "ans":  "Yes, workshop materials and resources will be provided to participants."
+        },
+        {
+            "title": "quest5",
+            "quest": "Is this a paid workshop?",
+            "ans":  "Yes, the workshop costs just ₹199."
+        },
+        {
+            "title": "quest6",
+            "quest": "What should I do if I encounter technical issues during the workshop?",
+            "ans":  "In case of technical difficulties, our support team will be available to assist you. Contact information will be provided during the workshop."
+        }
+    ],
+    "highlights": [
+            {
+                "title": "Actionable Knowledge",
+                "image": "https://res.cloudinary.com/dfogisedz/image/upload/v1696351024/webinar/owiaugnjt0rei2ebr0d5.jpg",
+                "desc": "Acquire valuable, hands-on insights to launch your data science career effectively"
+            },
+            {
+                "title": "Q&A Sessions",
+                "image": "https://res.cloudinary.com/dfogisedz/image/upload/v1696351025/webinar/hb7qlekoz7g5vqox7trl.png",
+                "desc": "Get your burning questions answered by industry experts in real time"
+            },
+            {
+                "title": "Industry Demand",
+                "image": "https://res.cloudinary.com/dfogisedz/image/upload/v1696351025/webinar/izmmhubx8b7vkmqjlnsp.jpg",
+                "desc": "Learn from experts about the current job market's robust demand for careers in Data Science"
+            },
+            {
+                "title": "Flexible Learning",
+                "image": "https://res.cloudinary.com/dfogisedz/image/upload/v1696351025/webinar/w7ewz7qian1arah1ohsd.jpg",
+                "desc": "Attend our workshop conveniently from your own home"
+            },
+            {
+                "title": "Engage and Connect",
+                "image": "https://res.cloudinary.com/dfogisedz/image/upload/v1696351025/webinar/pptrpmhal3wrk3prymfo.png",
+                "desc": "Interact with seasoned industry professionals and fellow enthusiasts for an interactive learning experience"
+            },
+            {
+                "title": "E-Certificate and study Material",
+                "image": "https://res.cloudinary.com/dfogisedz/image/upload/v1696352147/webinar/yrmxu32te7tybrfwwumv.jpg",
+                "desc": "We offer E-certificates upon completion of the webinar and provide study materials"
+            }
+    ],
+    "influencers":[
+        {
+          "name": "",
+          "email": "aasifcodes@gmail.com",
+          "mobile": "",
+          "couponCode": "aasifcodes"
+        },
+        { 
+        "name": "",
+        "email": "bhaskarbabucm6@gmail.com", 
+        "mobile": "",
+        "couponCode": "vee.codes"
+          },
+          { 
+            "name": "",
+            "email": "atal.posh@gmail.com@gmail.com",
+            "mobile": "",
+            "couponCode": "data_science_memes veecodes.work@gmail.com "
+              }
+      ]
+}

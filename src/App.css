@@ -1,0 +1,223 @@
+.bg-custom {
+  background-color: #2a2c7f;
+}
+
+.display-1,
+.display-2,
+.display-3,
+.display-4,
+.display-5,
+.display-6 {
+  font-weight: 500 !important;
+}
+
+/* navigation  */
+.header-nav{
+  background: linear-gradient(45deg, #100009, #120003, #08000f);
+  border-bottom: 1px solid #fff;
+}
+.header-nav nav{
+  background-color: #cdcdcf32;
+  backdrop-filter: blur(100px);
+}
+.text-main{
+  color: #9812e6;
+}
+.text-main-1{
+  color: #fb2041;
+}
+.confirm-btn{
+  border: none;
+  padding: 10px;
+  background: #7b0dd4 !important;
+  box-shadow: 0px 10px 20px rgba(208, 9, 208, 0.4);
+  color: #fff !important;
+  border-radius: 10px;
+  margin-top: 20px;
+  font-size: 1.4rem !important;
+}
+.card{
+  border: none !important;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+
+/* head line section */
+
+#headline {
+  background-color: transparent;
+  background: linear-gradient(45deg, #c057f4c2, #b5001be8, #7b0dd4), url("https://images.pexels.com/photos/2034851/pexels-photo-2034851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  background-color: #6a5acd;
+}
+
+/* about section */
+#about {
+  height: 100%;
+  width: 100%;
+  padding: 40px;
+}
+
+#about #abt-img {
+  position: relative;
+}
+
+#about .abt2 {
+  position: absolute;
+  left: -50px;
+  top: -50px;
+}
+
+#action {
+  height: 60vh;
+  background: linear-gradient(45deg, #27003c88, #130003e8, #7b0dd4), url("https://images.pexels.com/photos/2034851/pexels-photo-2034851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 30px;
+  text-align: center;
+}
+
+#action #action-content {
+  letter-spacing: 4px;
+}
+
+.circle {
+  height: 6rem;
+  width: 6rem;
+  background-color: #6a5acd;
+  background: linear-gradient(45deg, #990052, #fb2041, #7b0dd4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px;
+  color: #fff;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.circle strong {
+  font-size: 3em;
+}
+
+.circle div sup {
+  font-size: 1.2em;
+}
+
+/* schedule */
+#schedule,
+#faq {
+  background-image: url("https://res.cloudinary.com/dfshihuf9/image/upload/v1696309348/be-practical/ds-web/ojxyb8hp2sneqk4tfjeh.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 30px;
+}
+
+#schedule .card {
+  height: 100%;
+}
+
+#schedule .card img.card-img-top {
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* register form section */
+
+#register {
+  background: linear-gradient(45deg, #25013888, #5d000ee8, #7b0dd4), url("https://images.pexels.com/photos/2034851/pexels-photo-2034851.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 30px;
+}
+
+/*  register */
+form .form-control {
+  padding: 10px !important;
+  background-color: transparent !important;
+  border: 1px solid #dadada;
+}
+.contact-card{
+  background-color: #fff !important;
+  max-width: 400px !important;
+}
+
+/* faq section */
+
+#faq .accordion-item {
+  background-color: transparent;
+}
+
+#faq .accordion-button {
+  cursor: pointer;
+  background-color: transparent;
+}
+
+#footer {
+  height: 100%;
+  background: url("https://res.cloudinary.com/dfshihuf9/image/upload/v1696309367/be-practical/ds-web/ipa84h3ozcjgsxukojg4.png");
+  background: linear-gradient(45deg, #000, #000, #000);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  #headline {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding:  30px 10px;
+  }
+  #about #abt-img {
+    position: relative;
+    width: 100%;
+  }
+
+  #about .abt2 {
+    display: none;
+  }
+
+  .circle {
+    width: 3rem;
+    height: 3rem;
+  }
+
+  .circle strong {
+    font-size: 1.1em;
+  }
+
+  .circle div sup {
+    font-size: 0.8em;
+  }
+}
+
+/* loading modal */
+.loading-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.loading-spinner {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
